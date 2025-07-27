@@ -5,8 +5,12 @@ build/
 dist/
 wheels/
 *.egg-info
+
+# uv-generated files
 .python-version
+uv.lock
 
 # Virtual environments
 .venv/
 venv/
+
